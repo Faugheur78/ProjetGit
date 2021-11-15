@@ -10,30 +10,25 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Shalimar&display=swap" rel="stylesheet">
-    <style>
-        h1{
-            font-family: 'Shalimar', cursive;
-        }
-
-    </style>
+    <link href="css/style.css" rel="stylesheet">
 
     <title>ProjetGit</title>
   </head>
   <body>
-    <header>
+  <header>
       <nav class="navbar navbar-dark bg-dark justify-content-center d-flex">
         <ul class="nav">
           <li class="nav-item border border-white rounded mx-2">
-            <a class="text-white nav-link" aria-current="page" href="#">Active</a>
+            <a class="nav-link" aria-current="page" href="index.php">Accueil</a>
           </li>
           <li class="nav-item border border-white rounded mx-2">
-            <a class="text-white nav-link" href="#">Link</a>
+            <a class="nav-link thispage" href="dodge.php">Dodge</a>
           </li>
           <li class="nav-item border border-white rounded mx-2">
-            <a class="text-white nav-link" href="#">Link</a>
+            <a class="nav-link" href="#">Koenigsegg</a>
           </li>
           <li class="nav-item border border-white rounded mx-2">
-            <a class="text-white nav-link">Disabled</a>
+            <a class="nav-link" href="#">Mustang</a>
           </li>
         </ul>
       </nav>

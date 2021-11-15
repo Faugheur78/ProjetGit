@@ -1,0 +1,17 @@
+h1{
+    font-family: 'Shalimar', cursive;
+}
+
+.nav li:hover, .nav a:hover{
+    background-color: white;
+    color: black !important;
+}
+
+.nav li, .nav a{
+    color: white;
+}
+
+.thispage{
+    background-color: white;
+    color: black !important;
+}
