@@ -33,8 +33,8 @@
       </nav>
     </header>
     <main class="container">
-        <h1 class="text-center">Dodge Charger</h1>
-        <img src="img/Dodge-Charger.jpg" class="mx-auto d-flex mt-4" alt="Dodge Charger">
+        <h1 class="text-center my-4">Dodge Charger</h1>
+        <img src="img/Dodge-Charger.jpg" class="mx-auto d-flex" alt="Dodge Charger">
         <div class="row mt-5">
             <div class="border-end d-flex flex-column col-4 justify-content-center">
                 <img src="img/logo_voiture.png" width="150px" class="mx-auto mb-3">
@@ -68,9 +68,7 @@
         </div>
         <div class="my-5">
             <img src="img/Dodge-Charger-1.jpg" class="d-block w-100" alt="Dodge-Charger-1">
-        </div>
-        
-                
+        </div>    
 
     </main>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
