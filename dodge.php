@@ -24,7 +24,7 @@
             <a class="nav-link thispage" href="dodge.php">Dodge</a>
           </li>
           <li class="nav-item border border-white rounded mx-2">
-            <a class="nav-link" href="#">Koenigsegg</a>
+            <a class="nav-link" href="regera.php">Koenigsegg</a>
           </li>
           <li class="nav-item border border-white rounded mx-2">
             <a class="nav-link" href="#">Mustang</a>
@@ -34,18 +34,18 @@
     </header>
     <main class="container">
         <h1 class="text-center my-4">Dodge Charger</h1>
-        <img src="img/Dodge-Charger.jpg" class="mx-auto d-flex" alt="Dodge Charger">
+        <img src="img/Dodge-Charger.jpg" class="mx-auto d-flex img-fluid" alt="Dodge Charger">
         <div class="row mt-5">
-            <div class="border-end d-flex flex-column col-4 justify-content-center">
-                <img src="img/logo_voiture.png" width="150px" class="mx-auto mb-3">
+            <div class="border-end d-flex flex-column col-md-4 col-12 justify-content-center">
+                <img src="img/logo_voiture.png" width="150px" class="mx-auto mb-3 img-fluid">
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus aperiam id illum, libero cupiditate voluptatem, commodi incidunt ea magnam ex nam perferendis soluta. Provident incidunt excepturi expedita maiores reiciendis eveniet?</p>
             </div>
-            <div class="d-flex col-4 flex-column justify-content-center">
-                <img src="img/logo_compteur.png" width="150px" class="mx-auto mb-3">
+            <div class="d-flex col-md-4 col-12 flex-column justify-content-center">
+                <img src="img/logo_compteur.png" width="150px" class="mx-auto mb-3 img-fluid">
                 <p>Moteur 6,2 l HEMI® SRT Hellcat V8 qui délivre un total de 717 chevaux pour un couple de 881 kW. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde odio reiciendis harum facilis porro natus cupiditate quis fugit ullam cumque!</p>
             </div>
-            <div class="border-start d-flex col-4 flex-column">
-                <img src="img/logo_roue.png" width="150px" class="mx-auto mb-3">
+            <div class="border-start d-flex col-md-4 col-12 flex-column">
+                <img src="img/logo_roue.png" width="150px" class="mx-auto mb-3 img-fluid">
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id obcaecati voluptates ipsum atque quis maiores! Totam ipsum sapiente veritatis tempora. Suscipit eveniet dolorem ipsum architecto delectus cum temporibus fugiat voluptas!</p>
             </div>
         </div>
@@ -54,9 +54,10 @@
         </div>
         <div class="row">
             <div class="col-12 col-md-6">
-                <img src="img/Dodge-Charger-3.jpg" class="d-block w-100" alt="Dodge-Charger-3">
+                <img src="img/Dodge-Charger-3.jpg" class="d-block w-100 img-fluid" alt="Dodge-Charger-3">
             </div>
-            <div class="col-12 col-md-6 d-flex align-items-center">
+            <div class="col-12 col-md-6 align-items-center">
+                <h3 class="text-start d-block">Lorem ipsum dolor sit amet.</h3>
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam atque fuga molestias quidem, incidunt non tempore quaerat, quasi exercitationem provident qui error
                      quibusdam in esse deserunt. Repellendus, facere consequuntur recusandae dignissimos minima eius consectetur praesentium sapiente maxime. Iste sit enim tempore beatae
@@ -67,7 +68,7 @@
 
         </div>
         <div class="my-5">
-            <img src="img/Dodge-Charger-1.jpg" class="d-block w-100" alt="Dodge-Charger-1">
+            <img src="img/Dodge-Charger-1.jpg" class="d-block w-100 img-fluid" alt="Dodge-Charger-1">
         </div>    
 
     </main>
