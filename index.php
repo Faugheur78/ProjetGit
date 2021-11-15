@@ -19,13 +19,13 @@
       <nav class="navbar navbar-dark bg-dark justify-content-center d-flex">
         <ul class="nav">
           <li class="nav-item border border-white rounded mx-2">
-            <a class="nav-link" aria-current="page" href="index.php">Accueil</a>
+            <a class="nav-link thispage" aria-current="page" href="index.php">Accueil</a>
           </li>
           <li class="nav-item border border-white rounded mx-2">
-            <a class="nav-link thispage" href="dodge.php">Dodge</a>
+            <a class="nav-link" href="dodge.php">Dodge</a>
           </li>
           <li class="nav-item border border-white rounded mx-2">
-            <a class="nav-link" href="#">Koenigsegg</a>
+            <a class="nav-link" href="regera.php">Koenigsegg</a>
           </li>
           <li class="nav-item border border-white rounded mx-2">
             <a class="nav-link" href="#">Mustang</a>
